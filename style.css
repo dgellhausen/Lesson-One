@@ -15,7 +15,14 @@ h2{
 }
 img{
   border: 10px solid green;
+  
 }
 div{
   border: 5px solid teal;
+}
+p{
+  font-size: 30px;
+}
+li{
+  font-size: 30px;
 }
