@@ -1,3 +1,4 @@
+
 # RECIPE WEBSITE
 [TERMINAL AND GITHUB help](https://github.com/hello-world-tech-studios/terminal-and-github-help)
 
@@ -14,13 +15,13 @@ Your recipe page must include the following:
 * An unordered list of ingredients.
 * An ordered list of directions.
 * Links to 3 other suggested recipes.
-* A table of nutritional facts (You can make these up if you would like to!) 
+* A table of nutritional facts (You can make these up if you would like to!)
 
->  *Confused by the nutritional facts? Look at the [nutritional-facts](https://www.bettycrocker.com/recipes/italian-sausage-lasagna/2601a67c-438d-407a-b163-2f57ede06cb9) on this recipe.* 
+>  *Confused by the nutritional facts? Look at the [nutritional-facts](https://www.bettycrocker.com/recipes/italian-sausage-lasagna/2601a67c-438d-407a-b163-2f57ede06cb9) on this recipe.*
 
 #### EXTENSION
 
-* Create a form that allows people to write a review of the recipe. 
+* Create a form that allows people to write a review of the recipe.
 * Begin styling your website!
 
 > *HINT!!! you will be using `<form>` & google is your friend*
